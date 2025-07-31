@@ -9,25 +9,6 @@ This is a full stack web application built as part of a Full Stack Developer (Re
 
 
 ## 📁 Folder Structure
-fullstack-intern-task/
-│
-├── backend/
-│   ├── index.js
-│   └── package.json
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Home.js
-│   │   │   ├── Form.js
-│   │   │   ├── Display.js
-│   │   ├── App.js
-│   │   └── index.js
-│   └── package.json
-│
-└── README.md
-
 
 
 ✅ Frontend
