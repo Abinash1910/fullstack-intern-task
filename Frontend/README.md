@@ -10,19 +10,7 @@ This is a full stack web application built as part of a Full Stack Developer (Re
 
 ## 📁 Folder Structure
 
-fullstack-intern-task/
-├── backend/ 
-│ └── index.js
-├── frontend/ 
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Home.jsx
-│ │ │ ├── Form.jsx
-│ │ │ └── Display.jsx
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│ └── index.html
-└── README.md
+
 ✅ Frontend
 - Home page with a welcome message
 - User Registration Form (with validation)
